@@ -11,13 +11,13 @@ body {
   background-image: url('https://img.maximummedia.ie/joe_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE4XFxcLzA3XFxcLzA5MTEwMTQ0XFxcL2J1cy01LmpwZ1wiLFwid2lkdGhcIjo0NDMsXCJoZWlnaHRcIjoyNDgsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5qb2UuaWVcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9qb2VcXFwvbm8taW1hZ2UucG5nP2lkPTI2NGEyZGJlMzcwZjJjNjc1ZmNkXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6ImIzZTJjYTBlYTM0ZDc3YmM2M2ZmZGFmMzIxZDBmOWRhZTlkNzQ2ODcifQ==/pics-new-look-buses-will-soon-be-rolled-out-for-a-host-of-routes-in-dublin-here-s-what-they-look.jpg');
 }
 
-i{
+i {
   font-size: 40px;
   color: beige;
   text-shadow: 2px 2px 20px whitesmoke;
 }
 
-p{
+p {
   font-size: 15px;
   padding-right: 15px;
   color: rgb(247, 247, 6);
@@ -44,13 +44,13 @@ div {
   cursor: pointer !important;
   display: flex;
   justify-content: space-between;
-  
+
 }
 
 .editing {
   background: white;
   color: #172b4d !important;
-  box-shadow:inset 0px 0px 0px 2px #b3f60b;
+  box-shadow: inset 0px 0px 0px 2px #b3f60b;
 }
 
 .editing:hover {
@@ -65,7 +65,7 @@ div {
 }
 
 .list {
-/*   padding: 7px; */
+  /*   padding: 7px; */
   min-width: 280px;
   margin: 10px 5px;
   position: relative;
@@ -78,8 +78,8 @@ div {
   min-width: 280px;
   margin: 10px 5px;
   position: relative;
-  background: rgba(0,0,0,.12);
-  color: hsla(0,0%,100%,.8);
+  background: rgba(0, 0, 0, .12);
+  color: hsla(0, 0%, 100%, .8);
   text-align: center;
 }
 
@@ -96,7 +96,7 @@ div {
   margin-top: 0px;
   color: rgb(252, 247, 247);
   text-decoration: none;
-/*   border-bottom: 1px solid #dfe1e6; */
+  /*   border-bottom: 1px solid #dfe1e6; */
 }
 
 .add-card:hover {
@@ -107,5 +107,3 @@ div {
   font-weight: 600;
   color: rgb(7, 7, 7);
 }
-
- 

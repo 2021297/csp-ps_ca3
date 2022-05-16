@@ -6,32 +6,8 @@ body {
   color: #060800;
   background-color: rgb(250, 250, 20);
   display: flex;
-  align-items: start;
-}
-
-.bg{
-  height: 100vh;
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-
-}
-
-.bg-layer{
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-}
-
-.bg-layer img{
-  display: block;
-  position: absolute;
-  height: 1000px;
-
+  align-items: center;
+  background-image: url('https://img.maximummedia.ie/joe_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE4XFxcLzA3XFxcLzA5MTEwMTQ0XFxcL2J1cy01LmpwZ1wiLFwid2lkdGhcIjo0NDMsXCJoZWlnaHRcIjoyNDgsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5qb2UuaWVcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9qb2VcXFwvbm8taW1hZ2UucG5nP2lkPTI2NGEyZGJlMzcwZjJjNjc1ZmNkXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6ImIzZTJjYTBlYTM0ZDc3YmM2M2ZmZGFmMzIxZDBmOWRhZTlkNzQ2ODcifQ==/pics-new-look-buses-will-soon-be-rolled-out-for-a-host-of-routes-in-dublin-here-s-what-they-look.jpg');
 }
 
 i{
